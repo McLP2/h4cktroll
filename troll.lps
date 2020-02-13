@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Release"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="troll.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="h4ck.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="34"/>
+        <CursorPos X="36" Y="45"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\lcl\dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="24"/>
+        <CursorPos X="54" Y="34"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="h4ck.lfm"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="40" Y="13"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="10" HistoryIndex="9">
+      <Position1>
+        <Filename Value="h4ck.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="h4ck.pas"/>
+        <Caret Line="39" Column="65" TopLine="21"/>
+      </Position2>
+      <Position3>
+        <Filename Value="h4ck.pas"/>
+        <Caret Line="38" Column="40" TopLine="22"/>
+      </Position3>
+      <Position4>
+        <Filename Value="h4ck.pas"/>
+        <Caret Line="40" Column="40" TopLine="24"/>
+      </Position4>
+      <Position5>
+        <Filename Value="h4ck.pas"/>
+        <Caret Line="45" Column="3" TopLine="29"/>
+      </Position5>
+      <Position6>
+        <Filename Value="h4ck.pas"/>
+        <Caret Line="23" Column="36" TopLine="5"/>
+      </Position6>
+      <Position7>
+        <Filename Value="h4ck.pas"/>
+        <Caret Line="63" Column="44" TopLine="46"/>
+      </Position7>
+      <Position8>
+        <Filename Value="h4ck.pas"/>
+        <Caret Line="62" Column="23" TopLine="48"/>
+      </Position8>
+      <Position9>
+        <Filename Value="h4ck.pas"/>
+        <Caret Line="45" Column="19" TopLine="33"/>
+      </Position9>
+      <Position10>
+        <Filename Value="h4ck.pas"/>
+        <Caret Line="44" Column="102" TopLine="33"/>
+      </Position10>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

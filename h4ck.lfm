@@ -1,0 +1,74 @@
+object Form1: TForm1
+  Left = 332
+  Height = 419
+  Top = 125
+  Width = 840
+  BorderStyle = bsNone
+  Caption = 'Form1'
+  ClientHeight = 419
+  ClientWidth = 840
+  Color = clBlack
+  LCLVersion = '1.6.4.0'
+  WindowState = wsMaximized
+  object ProgressBar1: TProgressBar
+    AnchorSideLeft.Control = Owner
+    AnchorSideLeft.Side = asrCenter
+    AnchorSideTop.Side = asrCenter
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrCenter
+    Left = 149
+    Height = 112
+    Top = 153
+    Width = 542
+    Anchors = [akLeft, akBottom]
+    TabOrder = 0
+  end
+  object Label1: TLabel
+    AnchorSideLeft.Control = ProgressBar1
+    AnchorSideTop.Control = ProgressBar1
+    AnchorSideTop.Side = asrBottom
+    AnchorSideBottom.Control = ProgressBar1
+    Left = 149
+    Height = 49
+    Top = 104
+    Width = 402
+    Anchors = [akLeft, akBottom]
+    Caption = 'Hacking Pentagon... 0%'
+    Font.Color = clWhite
+    Font.Height = -35
+    Font.Name = 'Comic Sans MS'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label2: TLabel
+    AnchorSideLeft.Control = ProgressBar1
+    AnchorSideTop.Control = ProgressBar1
+    AnchorSideTop.Side = asrBottom
+    AnchorSideBottom.Control = Owner
+    Left = 149
+    Height = 23
+    Top = 313
+    Width = 390
+    BorderSpacing.Top = 48
+    Caption = 'Checking Password: 8H@9h9)H9hs'
+    Font.Color = clWhite
+    Font.Height = -21
+    Font.Name = 'Courier New'
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Timer1: TTimer
+    Interval = 2345
+    OnTimer = Timer1Timer
+    left = 216
+    top = 40
+  end
+  object Timer2: TTimer
+    Interval = 100
+    OnTimer = Timer2Timer
+    left = 453
+    top = 30
+  end
+end
